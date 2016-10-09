@@ -15,11 +15,9 @@ function pied() {
 		{alert("you WON")
 	else   (wholeNumber > wH){
 		alert("you LOSE")
-	}
-
-		
+	}	
 	clickValider();  
 	 $("button").click(function () {
 		clickValider();
-
+		alert("here"); 
 }
