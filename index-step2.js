@@ -17,16 +17,9 @@ function pied() {
 		alert("you LOSE")
 	}
 
-		// Si le contenu est égal
-		// Afficher une alert Gagné
-		// Sinon s'il est supérieur
-		// Afficher une alert Perdu, votre nombre est trop grand
-		// Sinon s'il est inférieur
-		// Afficher une alert Perdu, votre nombre est trop petit
-	}
-	clickValider();  // /Fin == Fonction clickValider ==
+		
+	clickValider();  
 	 $("button").click(function () {
 		clickValider();
-	// Ecrire le code qui va détecter que le bouton 'valider' est cliqué.
-	// Et qui appelle la fonction 'clickValider' défini ci-dessus
+
 }
